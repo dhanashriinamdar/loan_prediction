@@ -31,7 +31,6 @@ clyent==1.2.1
 colorama
 conda
 conda-build
-conda-verify
 contextlib2
 cryptography
 cycler
@@ -62,10 +61,10 @@ HeapDict==1.0.1
 html5lib
 idna
 imageio
-imagesize @ file:///home/ktietz/src/ci/imagesize_1611921604382/work
-importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1617874469820/work
-iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
-intervaltree @ file:///tmp/build/80754af9/intervaltree_1598376443606/work
+imagesize
+importlib-metadata
+iniconfig
+intervaltree
 ipykernel @ file:///tmp/build/80754af9/ipykernel_1596207638929/work/dist/ipykernel-5.3.4-py3-none-any.whl
 ipython @ file:///tmp/build/80754af9/ipython_1617120885885/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
