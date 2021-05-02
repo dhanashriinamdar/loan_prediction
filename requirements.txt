@@ -181,7 +181,7 @@ SecretStorage
 Send2Trash
 simplegeneric==0.8.1
 singledispatch
-sip==4.19.13
+sip==5.0.0
 six
 sniffio
 snowballstemmer
