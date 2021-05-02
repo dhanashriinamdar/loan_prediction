@@ -1,12 +1,15 @@
-anyio @ file:///tmp/build/80754af9/anyio_1617783275907/work/dist
+anaconda-client==1.7.2
+anaconda-navigator==1.10.0
+anaconda-project
+anyio
 argh==0.26.2
-argon2-cffi @ file:///tmp/build/80754af9/argon2-cffi_1613037097816/work
-asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
-astroid @ file:///tmp/build/80754af9/astroid_1613500854201/work
-astropy @ file:///tmp/build/80754af9/astropy_1617745353437/work
-async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
+argon2-cffi
+asn1crypto
+astroid
+astropy
+async-generator
 atomicwrites==1.4.0
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+attrs
 autopep8 @ file:///tmp/build/80754af9/autopep8_1615918855173/work
 Babel @ file:///tmp/build/80754af9/babel_1607110387436/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
