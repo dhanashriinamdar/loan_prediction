@@ -52,7 +52,6 @@ fsspec
 future
 gevent
 glob2
-gmpy2
 greenlet
 gunicorn==20.1.0
 h5py==2.10.0
